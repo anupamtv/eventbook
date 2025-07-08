@@ -8,6 +8,8 @@ const JWT_SECRET = 'jwtpass';
 const multer = require('multer');
 const path = require('path');
 
+
+
 app.use(cors());
 app.use(express.json());
 app.use('/uploads', express.static('uploads'));
