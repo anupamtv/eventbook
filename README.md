@@ -4,7 +4,7 @@
 
 A full-stack event booking and RSVP platform built using React, Node.js, Express, MongoDB, and Multer. Admins can create events with images and guest limits. Users can RSVP to events and view their tickets.
 
-Features
+## Features
 
 ## User
 	•	Signup & Login (JWT-based auth)
