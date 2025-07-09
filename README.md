@@ -32,7 +32,7 @@ Uploads	Multer (with static /uploads folder)
 eventbrite-lite/
 ├── backend/
 │   ├── index.js
-│   ├── uploads/   # uploaded event images
+│   ├── uploads/   
 │   └── package.json
 ├── frontend/
 │   ├── src/
